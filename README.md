@@ -1,5 +1,7 @@
 # VueJS in Docker
 
+<img width="817" alt="appsc" src="https://github.com/yvobogers/vueindocker/assets/21970585/21e16c45-c86a-447f-912b-134f5e11230d">
+
 A simple VueJS app that runs in Docker, with a frontend that redirects the user to a Keycloak login page, and calls a coinbase API endpoint with fetch when you click a button. Still some bugs but the basic idea works. Had some help from https://mherman.org/blog/dockerizing-a-vue-app/
 
 ## Project setup
